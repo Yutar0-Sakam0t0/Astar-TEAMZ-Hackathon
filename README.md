@@ -66,11 +66,11 @@ npm run dev
 ```
 
 ## Demo Pages:
-![Demo Page0](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/main/images/image0.jpg)
-![Demo Page1](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/main/images/image1.jpg)
-![Demo Page2](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/main/images/image2.jpg)
-![Demo Page3](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/main/images/image3.jpg)
-![Demo Page4](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/main/images/image4.jpg)
+![Demo Page0](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/master/images/image0.jpg)
+![Demo Page1](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/master/images/image1.jpg)
+![Demo Page2](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/master/images/image2.jpg)
+![Demo Page3](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/master/images/image3.jpg)
+![Demo Page4](https://raw.githubusercontent.com/Yutar0-Sakam0t0/Astar-TEAMZ-Hackathon/master/images/image4.jpg)
 
 ## *Video Link:*
 
